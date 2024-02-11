@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/pranaychawhan2015/docker-react_project/issues"
   },
-  "homepage": "https://github.com/pranaychawhan2015/docker-react_project#readme"
+  "homepage": "https://github.com/pranaychawhan2015/docker-react_project#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
