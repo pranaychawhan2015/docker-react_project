@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/pranaychawhan2015/docker-react_project#readme",
   "dependencies": {
-    "react": "^18.2.0"
+    "react": "^18.2.0",
+    "react-scripts": "^3.0.1"
   }
 }
